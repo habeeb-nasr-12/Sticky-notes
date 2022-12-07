@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
+
+body {
+color: white !important;
+background-color: #131722 !important;
+font-family: "Montserrat Alternates";
+}
+i{
+    cursor: pointer;
+}
+.item{
+    cursor: pointer;
+}
+
+
+a, a:hover{
+    color:  white;
+    text-decoration: none;
+}
+.page,.logout{
+    cursor: pointer;
+}
+.note{
+    background-color: rgb(57, 114, 180);
+}
+span{
+    cursor: pointer;
+}
+
+.del ,.edit{
+    font-size: 27px;
+}
